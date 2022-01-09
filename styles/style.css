@@ -1,0 +1,21 @@
+
+h1 {
+	width: 2cm;
+	margin: 0cm 15cm 0cm;
+}
+p.tytulp {
+	color: black;
+	background-color: white;
+	font-size: 60px;
+	text-decoration: none;
+	width:650px;
+}
+p.tytulp:hover {
+	font-size: 72px;
+	background-color: #00A1F5;
+}
+
+.scrach {
+    border: 10px solid;
+	border-color: black;
+}
